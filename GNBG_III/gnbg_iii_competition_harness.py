@@ -4,7 +4,6 @@ import time
 import os
 import csv
 from scipy.io import loadmat, savemat
-import run_algorithm_template
 
 # --------------------------------------------------------------------------
 # Utilities for loading MATLAB .mat benchmark files (GNBG struct)
