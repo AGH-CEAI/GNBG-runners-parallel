@@ -17,7 +17,7 @@ import traceback
 
 import numpy as np
 import multiprocessing as mp
-from GNBG_II.GNBG_instances import get_gnbg
+from GNBG_Runners.GNBG_II.GNBG_instances import get_gnbg
 
 REPETITIONS_PER_FID = 30
 HALF_BUDGET_PACK_SIZE = 3  # pack fast tasks in groups of 3
